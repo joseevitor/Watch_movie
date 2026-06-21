@@ -1,26 +1,26 @@
 [
-    {
-        "id": 1,
-        "titulo": "O labirinto do Logcat",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-        "link": "https://www.youtube.com/embed/ypvGqZGJBls"
-    },
-    {
-        "id": 2,
-        "titulo": "Um componente no espaço",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-        "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
-    },
-    {
-        "id": 3,
-        "titulo": "O poderoso JavaScript",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-        "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
-    },
-    {
-        "id": 4,
-        "titulo": "Dart, o Caçador de Andróides",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-        "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
-    }
+  {
+    "id": 1,
+    "titulo": "Hunter x Hunter",
+    "capa": "https://upload.wikimedia.org/wikipedia/en/8/82/Hunter_%C3%97_Hunter_%282011%29.png",
+    "link": "https://www.netflix.com/br/title/70300472"
+  },
+  {
+    "id": 2,
+    "titulo": "Haikyuu!!",
+    "capa": "https://m.media-amazon.com/images/M/MV5BYjYxMWFlYTAtYTk0YS00NTMxLWJjNTQtM2E0NjdhYTRhNzE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "link": "https://www.netflix.com/br/title/80090673"
+  },
+  {
+    "id": 3,
+    "titulo": "Arcane",
+    "capa": "https://m.media-amazon.com/images/M/MV5BYjA2NzhlMDItNWRmZC00MzRjLWE3ZjAtZjBlZDAwOWY2ODdjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "link": "https://www.netflix.com/br/title/81435684"
+  },
+  {
+    "id": 4,
+    "titulo": "Attack on Titan",
+    "capa": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/d8/Attack_on_Titan_Season_1.jpg/revision/latest/scale-to-width-down/1000?cb=20211005182832",
+    "link": "https://www.youtube.com/embed/MGRm4IzK1SQ"
+  }
 ]
