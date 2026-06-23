@@ -19,3 +19,9 @@
 .tofavorite{
     width: 25px;
 }
+
+.link {
+    text-decoration: none;
+    color: var(--preto);
+    text-align: left;
+}
