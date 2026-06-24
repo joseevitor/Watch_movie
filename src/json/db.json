@@ -1,26 +1,28 @@
-[
-  {
-    "id": 1,
-    "titulo": "Hunter x Hunter",
-    "capa": "https://upload.wikimedia.org/wikipedia/en/8/82/Hunter_%C3%97_Hunter_%282011%29.png",
-    "link": "https://youtube-nocookie.com/1OJNzXxNLbk?si=8A0SSB4hyCt0dym9"
-  },
-  {
-    "id": 2,
-    "titulo": "Haikyuu!!",
-    "capa": "https://m.media-amazon.com/images/M/MV5BYjYxMWFlYTAtYTk0YS00NTMxLWJjNTQtM2E0NjdhYTRhNzE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "link": "https://youtube-nocookie.com/4a1yehDphac?si=3fHifxgrjh1dpIsX"
-  },
-  {
-    "id": 3,
-    "titulo": "Arcane",
-    "capa": "https://m.media-amazon.com/images/M/MV5BYjA2NzhlMDItNWRmZC00MzRjLWE3ZjAtZjBlZDAwOWY2ODdjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "link": "https://youtube-nocookie.com/F5tSoaJ93ac?si=mEdCSMedmg8RRs1z"
-  },
-  {
-    "id": 4,
-    "titulo": "Attack on Titan",
-    "capa": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/d8/Attack_on_Titan_Season_1.jpg/revision/latest/scale-to-width-down/1000?cb=20211005182832",
-    "link": "https://youtube-nocookie.com/NRxQwp5rRgc?si=I3tO79K0VrCx0dkA"
-  }
+{ 
+  "videos":[
+    {
+      "id": 1,
+      "titulo": "Hunter x Hunter",
+      "capa": "https://upload.wikimedia.org/wikipedia/en/8/82/Hunter_%C3%97_Hunter_%282011%29.png",
+      "link": "https://youtube-nocookie.com/1OJNzXxNLbk?si=8A0SSB4hyCt0dym9"
+    },
+    {
+      "id": 2,
+      "titulo": "Haikyuu!!",
+      "capa": "https://m.media-amazon.com/images/M/MV5BYjYxMWFlYTAtYTk0YS00NTMxLWJjNTQtM2E0NjdhYTRhNzE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "link": "https://www.youtube.com/watch?v=7aNg8cV65Os&list=RD7aNg8cV65Os&start_radio=1"
+    },
+    {
+      "id": 3,
+      "titulo": "Arcane",
+      "capa": "https://m.media-amazon.com/images/M/MV5BYjA2NzhlMDItNWRmZC00MzRjLWE3ZjAtZjBlZDAwOWY2ODdjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "link": "https://youtube-nocookie.com/F5tSoaJ93ac?si=mEdCSMedmg8RRs1z"
+    },
+    {
+      "id": 4,
+      "titulo": "Attack on Titan",
+      "capa": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/d8/Attack_on_Titan_Season_1.jpg/revision/latest/scale-to-width-down/1000?cb=20211005182832",
+      "link": "https://youtube-nocookie.com/NRxQwp5rRgc?si=I3tO79K0VrCx0dkA"
+    }
 ]
+}

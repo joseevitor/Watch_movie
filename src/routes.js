@@ -16,8 +16,8 @@ function AppRoutes(){
                 <FavoritesProvider>
                     <Routes>
                         <Route path="/" element={<Begin />}></Route>
-                        <Route path="/favorites" element={<Favorites />}></Route>
-                        <Route path="/:id" element={<Player />} ></Route>
+                        <Route path="favorites" element={<Favorites />}></Route>
+                        <Route path=":id" element={<Player />} ></Route>
                         <Route path="*" element={<NotFounded />}></Route>
                     </Routes>
                 </FavoritesProvider>

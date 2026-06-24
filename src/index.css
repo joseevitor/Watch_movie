@@ -5,6 +5,11 @@
   --cinza: #E2E2E2;
 }
 
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
 body {
   margin: 0;
   font-family: var(--fonte);
@@ -18,3 +23,12 @@ code {
     monospace;
 }
 
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1;
+}
