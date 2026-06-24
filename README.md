@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+Desenvolvi este projeto prático como parte do meu processo de aprendizado no frontend, onde desenvolvi a minha versão dum mini catálogo com animes com foco em consumo de dados e organização de interface. É possível favoritar os animes, eles terão uma aba apenas para os favoritos e quando clicamos neles abre-se a aba player que terá o vídeo de abertura de cada um. PS: para Attack on Titan consegui colocar o primeiro episódio na página, então dá pra assistir de verdade.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Pude praticar:
+React com componentização e reutilização de código;
+React Router DOM para navegação entre páginas;
+Hooks como useState, useEffect, useContext e useParams;
+Consumo e manipulação de dados estruturados em JSON;
+Simulação de uma API (transformando o JSON em uma fake API acessível via web);
+Integração com Node.js no fluxo de desenvolvimento.
 
-## Available Scripts
+No início, os dados eram consumidos localmente via arquivo JSON.
+Ao longo do desenvolvimento, evoluí essa estrutura para simular uma API no my-json-server, permitindo o consumo dos dados diretamente pela aplicação em produção.
+O deploy do projeto foi feito na Vercel e pode ser acessado em ambiente real pelo Link https://lnkd.in/dwiGeqGk .
 
-In the project directory, you can run:
+Principais aprendizados:
+Além da prática com React, esse projeto reforçou conceitos importantes de:
+Organização de front-end moderno;
+Fluxo de dados em aplicações web;
+Estruturação de projetos escaláveis;
+Importância de simular ambientes reais de produção.
 
-### `npm start`
+Esse tipo de prática me ajuda a consolidar fundamentos e evoluir para projetos cada vez mais completos.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[en]
+I completed this practical project as part of my frontend learning process, where I built a mini anime catalog focused on data consumption and interface organization. Users can favorite animes, access a dedicated favorites section, and open a player page with each anime’s opening video. PS: for Attack on Titan, I was able to embed the first episode, making it actually watchable.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+I practiced:
+React with component-based architecture and code reuse;
+React Router DOM for page navigation;
+Hooks such as useState, useEffect, useContext, and useParams;
+Consuming and handling structured JSON data;
+Simulating an API (turning JSON into a web-accessible fake API);
+Node.js integration in the workflow.
+Initially, data was consumed locally via JSON. During development, I evolved it into a simulated API using my-json-server, enabling production-like data consumption.
+The project was deployed on Vercel and is available at: https://lnkd.in/dwiGeqGk
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Main learnings:
+Modern frontend organization;
+Data flow in web applications;
+Scalable project structuring;
+Importance of simulating real production environments.
