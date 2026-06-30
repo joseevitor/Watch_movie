@@ -22,6 +22,7 @@ Importância de simular ambientes reais de produção.
 Esse tipo de prática me ajuda a consolidar fundamentos e evoluir para projetos cada vez mais completos.
 
 [en]
+
 I completed this practical project as part of my frontend learning process, where I built a mini anime catalog focused on data consumption and interface organization. Users can favorite animes, access a dedicated favorites section, and open a player page with each anime’s opening video. PS: for Attack on Titan, I was able to embed the first episode, making it actually watchable.
 
 I practiced:
